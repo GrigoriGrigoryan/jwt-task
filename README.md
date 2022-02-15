@@ -15,7 +15,7 @@
   <a href="https://github.com/GrigoriGrigoryan/jwt-task">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">Arabic number conversion tool</h3>
+  <h3 align="center">Authontication task</h3>
 
   <p align="center">
     Read README to jumpstart project!
@@ -87,10 +87,11 @@ This section should list any major frameworks/libraries used to bootstrap my pro
 
 * [Node.js](https://nodejs.org/)
 * [Express.js](https://expressjs.com/)
-* [React](https://reactjs.org/)
+* [PostgreSQL](https://www.postgresql.org/)
 * [Typescript](https://www.typescriptlang.org/)
 * [JavaScript](https://www.javascript.com/)
-* [HTML/CSS]()
+* [Docker](https://www.docker.com/)
+* [Postman](https://www.postman.com/)
 
 
 
@@ -124,11 +125,7 @@ To get a local copy up and running follow these simple example steps.
 
 To Run project run command  
    ```sh
-    npm run start:react
-   ```
-For testing part run command
-   ```sh
-   npm run test
+    docker-compose up
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -137,15 +134,6 @@ For testing part run command
 
 <!-- ROADMAP -->
 ## Roadmap
-
-- [x] Fork this project.
-- [x] Use the best stack matching the simplicity of the task.
-- [x] Don't use external libraries for the conversion.
-- [x] Make the solution pleasant to look at and user friendly in as many aspects as you can.
-- [x] Commit the important milestones and not just the final result.
-- [x] Don't forget to write tests. We expect the tests to check also the examples above.
-- [x] Try to support numbers as high as you can.
-- [x] (Optional) Try to support British English counting where numbers between 1000 and 2000 are said out using "hundreds". E.g. 1999 === nineteen hundred and ninety-nine
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
